@@ -1,4 +1,10 @@
 ### Hi there 👋
 
-- 🌲 I’m currently working on data science and computer vision projects at Stora Enso.
-- 🏫 I hold a bachelor's degree in Computational and Applied Mathematics from VSB-TUO. I have written my bachelor's thesis on the topic of [Scalable Probabilistic Method in Applications](https://github.com/matejfric/SPAMethodInApplications).
+- I'm currently working on geospatial data science and computer vision projects at Stora Enso 🌲 🌍 🛰️.
+
+#### Education 🏫
+
+- Master of **Computer Science**.
+  - Master's thesis: [In-Vehicle Driver State Analysis](https://github.com/matejfric/in-vehicle-driver-state-analysis)
+- Bachelor of **Computational and Applied Mathematics**.
+  - Bachelor's thesis: [Scalable Probabilistic Method in Applications](https://github.com/matejfric/SPAMethodInApplications).
